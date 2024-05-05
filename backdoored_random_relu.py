@@ -1,3 +1,6 @@
+#Quang Dao qvd@andrew.cmu.edu
+#Orestis Chardouvelis gchardou@andrew.cmu.edu
+
 import numpy as np
 import torch
 from sklearn.decomposition import SparsePCA
